@@ -13,7 +13,9 @@ I love to learn. Human cognition and especially learning has fascinated me for l
   Node.js |
   Express |
   Sequelize |
-  Postgresql 
+  Postgresql |
+  Git
+  
 ### What I am currently doing?
   I am finishing a full-stack developer bootcamp.
   
@@ -26,16 +28,16 @@ I love to learn. Human cognition and especially learning has fascinated me for l
   I am working as a freelancer doing a little bit of everything here and there. 
  ### What projects I have done?
   
-  I am working right now on my portfolio that will contain all the projects I have done... In the meantime here is my largest project to this day:
+  I am working right now on my portfolio, it will contain all the projects I have done... In the meantime here is my largest project to this day:
     
    http://64.227.30.242/home 
     
    https://github.com/nelsonosorio3/PI-Doggo
  ### What I want to do?
-  I want to improve my skills, I want to work developing software, be a bridge between the machines and the humans taking the potential of the former to the later.
+  I want to improve my skills, I want to work developing software, I want to be a bridge between the machines and the humans taking the potential of the former to the later.
   
   ## Contact me:
-  Enqueries, suggestions, do you have a project in which I can help?
+Enquiries, suggestions, comments, do you have a project in which I can help?
   
   nelsonsorio@gmail.com
   
