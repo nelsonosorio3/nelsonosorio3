@@ -17,15 +17,15 @@ I love to learn. Human cognition and especially learning has fascinated me for l
   Git
   
 ### What I am currently doing?
-  I am finishing a full-stack developer bootcamp.
+  * I am finishing a full-stack developer bootcamp.
   
-  I started remotely a Computer Science Bachelor Degree at the University of London.
+  * I started remotely a Computer Science Bachelor Degree at the University of London.
   
-  I am teaching myself the theoretical aspects of Computer Science with the help of resources like this one https://teachyourselfcs.com/
+  * I am teaching myself the theoretical aspects of Computer Science with the help of resources like this one https://teachyourselfcs.com/
   
-  I am improving my skills of JavaScript and several frameworks and libraries by doing small projects. 
+  * I am improving my skills of JavaScript and several frameworks and libraries by doing small projects. 
   
-  I am working as a freelancer doing a little bit of everything here and there. 
+  * I am working as a freelancer doing a little bit of everything here and there. 
  ### What projects I have done?
   
   I am working right now on my portfolio, it will contain all the projects I have done... In the meantime here is my largest project to this day:
