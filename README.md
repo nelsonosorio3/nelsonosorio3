@@ -23,7 +23,7 @@ I love to learn. Human cognition and especially learning has fascinated me for l
   
   * I am teaching myself the theoretical aspects of Computer Science with the help of resources like this one https://teachyourselfcs.com/
   
-  * I am improving my JavaScript skills and practising several frameworks and libraries by doing small projects. 
+  * I am improving my JavaScript skills and several frameworks and libraries knowledge by doing small projects. 
   
   * I am working as a freelancer doing a little bit of everything here and there. 
  ### What projects I have done?
