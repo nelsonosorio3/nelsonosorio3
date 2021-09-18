@@ -32,7 +32,6 @@ I love to learn. Human cognition and especially learning has fascinated me for l
     
    http://64.227.30.242/home 
     
-   https://github.com/nelsonosorio3/PI-Doggo
  ### What I want to do?
   I want to improve my skills, I want to work developing software, I want to be a bridge between the machines and the humans taking the Promethean flame of the former to the latter.
   
