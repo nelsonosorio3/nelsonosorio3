@@ -30,7 +30,7 @@ I love to learn. Human cognition and especially learning has fascinated me for l
   
   I am working right now on my portfolio, it will contain all the projects I have done... In the meantime here is my largest project to this day:
     
-   http://64.227.30.242/home 
+   http://64.227.30.242
     
  ### What I want to do?
   I want to improve my skills, I want to work developing software, I want to be a bridge between the machines and the humans taking the Promethean flame of the former to the latter.
